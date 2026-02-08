@@ -9,3 +9,4 @@ This game is available and free to play at https://catloaf-cafe.github.io/WiCS-H
 - A: walking left
 - D: walking right
 - Space: jump / double jump
+- Shift: dash
