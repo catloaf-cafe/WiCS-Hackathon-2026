@@ -4,6 +4,8 @@ An indie side scroller game featured with exploration, ability-based progression
 
 This game is available and free to play at [Purple City](https://catloaf-cafe.github.io/WiCS-Hackathon-2026/)!
 
+Demo playthrough can be found at [YouTube](https://youtu.be/aSsFjq4bAbg).
+
 ### Movements
 
 - A: walking left
