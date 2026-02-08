@@ -2,7 +2,7 @@
 
 An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets.
 
-This game is available and free to play at [Purple City](!https://catloaf-cafe.github.io/WiCS-Hackathon-2026/).
+This game is available and free to play at (Purple City)[!https://catloaf-cafe.github.io/WiCS-Hackathon-2026/].
 
 ### Movements
 
@@ -13,5 +13,5 @@ This game is available and free to play at [Purple City](!https://catloaf-cafe.g
 
 ### Sprites Used
 
-- [The Knight](!https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
-- [Purple City](!https://svor.itch.io/purple-city-assetpack)
+- (The Knight)[!https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897]
+- (Purple City)[!https://svor.itch.io/purple-city-assetpack]
