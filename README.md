@@ -2,7 +2,7 @@
 
 An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets.
 
-This game is available and free to play at [Purple City](https://catloaf-cafe.github.io/WiCS-Hackathon-2026/)!
+This game is available and free to play at [Purple City](https://catloaf-cafe.github.io/Unity-Web-Game/)!
 
 Demo playthrough can be found at [YouTube](https://youtu.be/aSsFjq4bAbg).
 
