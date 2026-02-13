@@ -1,4 +1,4 @@
-# WiCS Hackathon 2026: Purple City
+# Unity Web Game: Purple City
 
 An indie side scroller game featured with exploration, ability-based progression, platforming, and secrets.
 
